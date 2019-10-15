@@ -1,4 +1,4 @@
-# FlappIA-Bird
+# FlappIA Bird
 
 Projeto onde várias Redes Neurais competem para aprender a jogar o jogo Flappy Bird.
 
